@@ -5,4 +5,4 @@ In general, 1D CNN model is a good choice to classify digital signal which is ti
 so a 2D CNN model is designed to classify the ECG signals instead of 1D CNN.
 
 The details of training and compiling a CNN model with FINN as well as the verification are introduced in this notebook step by step. 
-This notebook can be used as a guide to use FINN, it helps to understand the workflow of each experiment in [Master Thesis folder](https://github.com/Wenlong-Qi/mapping_CNN_to_FPGA_by_using_FINN/tree/master/Master_Thesis).
+This notebook can be used as a guide to use FINN, it helps to understand the workflow of each experiment in [Master_Thesis](https://github.com/Wenlong-Qi/mapping_CNN_to_FPGA_by_using_FINN/tree/master/Master_Thesis) folder.
